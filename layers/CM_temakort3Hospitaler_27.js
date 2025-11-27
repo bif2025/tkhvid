@@ -1,0 +1,1 @@
+var json_CM_temakort3Hospitaler_27 = {"type":"FeatureCollection","name":"CM_temakort3Hospitaler_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name":"Hvidovre Hospital"},"geometry":{"type":"Point","coordinates":[12.4632829,55.6475272]}}]}
